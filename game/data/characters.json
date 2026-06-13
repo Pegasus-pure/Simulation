@@ -1,0 +1,99 @@
+{
+  "characters": [
+    {
+      "id": "king_alvin", "name_zh": "阿尔文三世", "name_en": "alvin", "race": "human", "gender": "male",
+      "age": 48, "origin": "noble", "location": "throne",
+      "combat": 35, "magic": 15, "tactics": 72, "wisdom": 68, "will": 80, "social": 75,
+      "role": "king (国王)", "faction": "human_kingdom"
+    },
+    {
+      "id": "general_hal", "name_zh": "哈尔将军", "name_en": "hal", "race": "human", "gender": "male",
+      "age": 52, "origin": "warrior", "location": "front",
+      "combat": 85, "magic": 10, "tactics": 88, "wisdom": 65, "will": 90, "social": 40,
+      "role": "general (将军)", "faction": "human_kingdom"
+    },
+    {
+      "id": "advisor_cedric", "name_zh": "塞德里克", "name_en": "cedric", "race": "human", "gender": "male",
+      "age": 56, "origin": "scholar", "location": "throne",
+      "combat": 10, "magic": 45, "tactics": 58, "wisdom": 82, "will": 55, "social": 70,
+      "role": "minister (财政大臣)", "faction": "human_kingdom"
+    },
+    {
+      "id": "karl", "name_zh": "卡尔", "name_en": "karl", "race": "human", "gender": "male",
+      "age": 17, "origin": "commoner", "location": "academy",
+      "combat": 78, "magic": 28, "tactics": 55, "wisdom": 40, "will": 89, "social": 35,
+      "role": "student (学生)", "faction": "academy",
+      "narrative_tags": ["rivalry_karl_leon"]
+    },
+    {
+      "id": "leon", "name_zh": "列昂", "name_en": "leon", "race": "human", "gender": "male",
+      "age": 18, "origin": "noble", "location": "academy",
+      "combat": 65, "magic": 40, "tactics": 60, "wisdom": 45, "will": 60, "social": 72,
+      "role": "student (学生)", "faction": "academy",
+      "narrative_tags": ["rivalry_karl_leon"]
+    },
+    {
+      "id": "eileen", "name_zh": "艾琳", "name_en": "eileen", "race": "human", "gender": "female",
+      "age": 17, "origin": "noble", "location": "academy",
+      "combat": 30, "magic": 85, "tactics": 50, "wisdom": 58, "will": 70, "social": 65,
+      "role": "student (学生)", "faction": "academy",
+      "narrative_tags": ["prodigy_eileen"]
+    },
+    {
+      "id": "mentor_hawk", "name_zh": "霍克", "name_en": "hawk", "race": "human", "gender": "male",
+      "age": 42, "origin": "warrior", "location": "academy",
+      "combat": 92, "magic": 15, "tactics": 80, "wisdom": 62, "will": 85, "social": 50,
+      "role": "mentor (剑术导师)", "faction": "academy"
+    },
+    {
+      "id": "mentor_meria", "name_zh": "梅里亚", "name_en": "meria", "race": "human", "gender": "female",
+      "age": 38, "origin": "scholar", "location": "academy",
+      "combat": 10, "magic": 90, "tactics": 55, "wisdom": 78, "will": 65, "social": 60,
+      "role": "mentor (魔法导师)", "faction": "academy"
+    },
+    {
+      "id": "dean_seles", "name_zh": "塞勒斯", "name_en": "seles", "race": "human", "gender": "male",
+      "age": 60, "origin": "scholar", "location": "academy",
+      "combat": 25, "magic": 70, "tactics": 75, "wisdom": 88, "will": 72, "social": 80,
+      "role": "dean (院长)", "faction": "academy"
+    },
+    {
+      "id": "demon_gorm", "name_zh": "戈尔姆", "name_en": "gorm", "race": "demon", "gender": "male",
+      "age": 120, "origin": "demon", "location": "demon",
+      "combat": 90, "magic": 75, "tactics": 82, "wisdom": 55, "will": 95, "social": 30,
+      "role": "general (魔族将军)", "faction": "demon_tribe",
+      "narrative_tags": ["demon_hawk"]
+    },
+    {
+      "id": "demon_grime", "name_zh": "格里姆", "name_en": "grime", "race": "demon", "gender": "male",
+      "age": 45, "origin": "demon", "location": "demon",
+      "combat": 60, "magic": 55, "tactics": 65, "wisdom": 72, "will": 70, "social": 45,
+      "role": "scout (魔族斥候)", "faction": "demon_tribe"
+    },
+    {
+      "id": "demon_cautious", "name_zh": "暗影族长", "name_en": "shadow_chief", "race": "demon", "gender": "male",
+      "age": 200, "origin": "demon", "location": "demon",
+      "combat": 70, "magic": 85, "tactics": 90, "wisdom": 90, "will": 80, "social": 55,
+      "role": "chief (暗影部落长)", "faction": "demon_tribe",
+      "narrative_tags": ["demon_dove"]
+    },
+    {
+      "id": "smith_kara", "name_zh": "卡拉", "name_en": "kara", "race": "human", "gender": "female",
+      "age": 45, "origin": "commoner", "location": "village",
+      "combat": 40, "magic": 5, "tactics": 30, "wisdom": 60, "will": 65, "social": 55,
+      "role": "smith (铁匠)", "faction": "neutral"
+    },
+    {
+      "id": "boy_tolan", "name_zh": "托兰", "name_en": "tolan", "race": "human", "gender": "male",
+      "age": 14, "origin": "commoner", "location": "village",
+      "combat": 15, "magic": 5, "tactics": 10, "wisdom": 25, "will": 50, "social": 40,
+      "role": "boy (少年)", "faction": "neutral"
+    },
+    {
+      "id": "guard_captain", "name_zh": "守卫队长", "name_en": "guard_captain", "race": "human", "gender": "male",
+      "age": 35, "origin": "warrior", "location": "front",
+      "combat": 72, "magic": 5, "tactics": 55, "wisdom": 45, "will": 75, "social": 60,
+      "role": "captain (守卫队长)", "faction": "human_kingdom"
+    }
+  ]
+}

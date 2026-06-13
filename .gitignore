@@ -1,0 +1,17 @@
+# 个人配置和存档 — 绝不上传
+/config.json
+/save.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+
+# 测试文件
+/test_phase1.py
+/test_phase2.py
+/test_phase2_1.py
+/test_phase3.py
